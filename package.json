@@ -25,11 +25,3 @@
     "tailwindcss": "^1.2.0"
   }
 }
-{
-  "name": "conciergevsm",
-  "description": "a really cool app",
-  "version": "1.0.0",
-  "engines": {
-    "node": "10.16.3"
-  }
-}
